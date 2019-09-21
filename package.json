@@ -1,0 +1,13 @@
+{
+  "name": "getperfektiv",
+  "description": "This rogram calculates the best iv cobination for a pokemon",
+  "dependencies": {
+    "mathjs": "6.2.1"
+  },
+  "engines": {
+    "node": ">=7.7.0"
+  },
+  "scripts": {
+    "start": "node getBest"
+  }
+}
